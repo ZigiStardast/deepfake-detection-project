@@ -1,0 +1,4 @@
+strategy,acc,prec,rec,f1,auc
+majority,1.0,1.0,1.0,1.0,1.0
+avgprob,1.0,1.0,1.0,1.0,1.0
+weighted,1.0,1.0,1.0,1.0,1.0
